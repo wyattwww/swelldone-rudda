@@ -3,8 +3,8 @@ A Bluetooth LE steering controller for the Swelldone app.
 
 Uses a ESP32 and four SPST buttons to rudder left, right, change camera, and pause/resume game.
 
-![Concept2 RowErg Steerer Housing](/concept2_steerer/images/steerer-1.png)
-![KayakPro PaddleErg Pedals Housing](/kayakpro_pedals/images/pedals-1.png)
+![Concept2 RowErg Steerer Housing](/swelldone-rudda/concept2_steerer/images/steerer-1.png)
+![KayakPro PaddleErg Pedals Housing](/swelldone-rudda/kayakpro_pedals/images/pedals-1.png)
 
 ## Materials
     ESP32 ESP-WROOM-32 Dev Board
