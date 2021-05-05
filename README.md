@@ -9,7 +9,7 @@ Uses a ESP32 and four SPST buttons to rudder left, right, change camera, and pau
 
 ## Materials
     ESP32 ESP-WROOM-32 Dev Board
-    4 single pole single throw buttons
+    4 single pole single throw buttons (16mm round push buttons)
     3D printed housing for the Concept 2 Row Erg (Models D/E) or KayakPro paddle ergs
 
 ## Setup
