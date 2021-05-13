@@ -1,5 +1,5 @@
 # Swelldone Rudda
-A Bluetooth LE steering controller for the Swelldone app. 
+A Bluetooth LE steering controller for the Swelldone app. Included are 3D printable housings for Concept2 RowErgs and KayakPro Paddle Ergs.
 
 Uses a ESP32 and four SPST buttons to rudder left, right, change camera, and pause/resume game.
 
